@@ -1,0 +1,7 @@
+select * from Job;
+select max(age) from Person;
+select name, age from Person;
+select name, income from Person, Job where Person.name = 333 AND Job.income = 50;
+select distinct name from Person;
+select * from Person, Job where Person.id = Job.personid;
+select * from blah;
