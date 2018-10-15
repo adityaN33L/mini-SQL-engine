@@ -9,7 +9,7 @@ A mini sql engine which will run a subset of SQL Queries using command line inte
 `<begin_table>`  
 `<table_name>`  
 `<attribute1>`  
-...
+...  
 `<attributeN>`  
 `<end_table>`  
 
